@@ -1,0 +1,116 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+.navclass{
+    background: rgb(56, 55, 61);
+    }
+
+.divcodoacodocolor{
+    color: white;
+    font-size: 1.1em;
+}
+
+.nav-link{
+    display: inline
+}
+
+.nav-item{
+height: 3em;
+}
+
+.navconferenciacolor{
+    color: white;
+}
+
+.navoradorcolor{
+    color: grey;
+}
+
+.navlugarcolor{
+    color: grey;
+}
+
+.navconviertetecolor{
+    color: grey;
+}
+
+.navticketscolor{
+    color: green;
+}
+
+.carousel-caption{
+    text-align: right;
+}
+
+
+.d-block{
+    filter: brightness(60%);
+}
+
+#titleoradores{
+    text-align: center;
+}
+
+.nombre{
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.col-4{
+    display: inline-block;
+}
+
+.js{
+    font-weight: bold;
+    font-size: small;
+    background-color: yellow;
+    padding: 1%;
+    border-radius: 10%;
+}
+
+.react{
+    font-weight: bold;
+    font-size: small;
+    color: white;
+    background-color: rgb(16, 134, 173);
+    padding: 1%;
+    border-radius: 10%;
+}
+
+.negocios{
+    font-weight: bold;
+    font-size: small;
+    color: white;
+    background-color: rgb(173, 171, 171);
+    padding: 1%;
+    border-radius: 10%;
+}
+
+.startups{
+    font-weight: bold;
+    font-size: small;
+    color: white;
+    background-color: red;
+    padding: 1%;
+    border-radius: 10%;
+}
+
+#ciudad{
+    color: white;
+    background-color: rgb(56, 55, 61);
+}
+
+#conviertete{
+    text-align: center;
+}
+
+.recuerda{
+    color: grey;
+}
+
+.navfoot{
+    background: rgb(56, 55, 61);
+    }
+
+    .foottext{
+        color: white;
+    }
