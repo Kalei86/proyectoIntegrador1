@@ -41,6 +41,12 @@ height: 3em;
     text-align: right;
 }
 
+@media screen and (max-width: 768px) {
+    .carousel-caption {
+      max-width: 80%;
+      font-size: 14px;
+    }
+  }
 
 .d-block{
     filter: brightness(60%);
@@ -58,6 +64,10 @@ height: 3em;
 .col-4{
     display: inline-block;
 }
+
+.img-container {
+    overflow: hidden;
+  }
 
 .js{
     font-weight: bold;
