@@ -157,3 +157,14 @@ height: 3em;
     .documentacion{
         color: grey;
     }
+
+    #valorticket{
+        text-align: center;
+    }
+
+    .output-box {
+        border: 1px solid #62cdee;
+        padding: 10px;
+        border-radius: 4px;
+        background-color: #b0e5f5;
+      }
